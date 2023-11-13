@@ -1,1 +1,0 @@
-This is my first HTML website in the Journey of ALX
