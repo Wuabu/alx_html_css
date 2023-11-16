@@ -56,4 +56,4 @@ Finally, the footer section is positioned after the last section. It includes a 
 Stay tuned for the next update where CSS will be applied to enhance the visual appeal of our webpage!
 
 
-![Image](https://www.figma.com/file/dyYL6Ku4WG7vsdpwvlcJZC/Homepage?type=design&node-id=3558-0&mode=design&t=fZWLav4WGwXZaBuy-0)
+![Image](./Readme.jpg)
