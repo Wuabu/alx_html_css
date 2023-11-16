@@ -1,6 +1,8 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: aliceblue;
+    
 }
 
 main {
@@ -12,10 +14,39 @@ main {
 article {
     flex: 2;
     overflow-y: auto;
+    border: 5px solid #5651;
 }
 
 aside {
     flex: 1;
     overflow-y: auto;
+}
+
+h1{
+    color: orangered;
+}
+
+header{
+    border: 5px solid #5651;
+}
+
+h2{
+    color: rgb(16, 91, 104);
+}
+
+h3{
+    color: rgb(97, 97, 212);
+}
+
+.Mission{
+    color: green;
+}
+
+a:link a:visited{
+    color: red;
+}
+
+a:hover{
+    color: rgb(255, 0, 119);
 }
 
