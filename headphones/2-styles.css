@@ -102,4 +102,14 @@
     
    }
 
-   
+   .Headphone_2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-image: url(images/headphones_hero_2.jpg);
+    width: 100%;
+    color: #ffffff;
+    height: 800px;
+    justify-content: space-between;
+    align-content: space-between;
+   }
