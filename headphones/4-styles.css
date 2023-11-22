@@ -9,7 +9,7 @@
     justify-content: space-between;
     align-content: space-between;
    }
-
+ 
    .header {
     display: flex;
     flex-direction: row;
@@ -22,16 +22,16 @@
     margin-top: 28px;
     flex-wrap: wrap;
    }
-
+ 
    
    a:hover {
     color: red;
    }
-
+ 
    .nav-link {
     color: white;
    }
-
+ 
    
    .top {
     display: flex;
@@ -40,58 +40,59 @@
     align-items: center;
     
     }
-
-h1{
+ 
+ h1{
     font-size: xx-large;
     display: flex;
     text-align: center;
-}
-
-.under {
+ }
+ 
+ .under {
     text-align: center;
   }
-
+ 
     .Action {
     background-color: #FF6565;
     width: 162px;
     height: 44px;
     border-radius: 50px;
     color: white;
+  
     }
-
+ 
    .Part2 {
     display: flex;
     flex-direction: column;
    }
-
+ 
    .what_we_do {
     display: flex;
     flex-direction: column; 
     flex-wrap: wrap;
     text-align: center;
    }
-
+ 
    .sound_frequency {
     text-align: center;
    }
-
+ 
    .sound_frequency2 {
     text-align: center;
     display: flex;
     
    }
-
+ 
    .Part2_2 {
     display: flex;
     padding: 50px;
    }
-
+ 
    .Part2_2_1 {
     border-left 100px;
     
    }
-
-
+ 
+ 
    .polygon {
     display: flex;
     width: 986px;
@@ -99,9 +100,9 @@ h1{
     margin-top: 56px;
     margin-left: 207px;
     justify-content: space-between;
-
+ 
  }
-
+ 
  .polygon_1{
     display: flex;
     flex-direction: column;
@@ -116,25 +117,68 @@ h1{
     align-items: center;
     border: none;
  }
-
+ 
  .polygon_1_2 {
     width: 50px;
     height: 50px;
     margin-top: 30px;
     font-size: 200%;
  }
-
+ 
  .part22 {
     background-image:url(images/headphones_hero_2.jpg);
     height: 100%;
     width: auto;
  }
-
-
+ 
+ 
  .part221_1 {
     display: flex;
     flex-direction: column;
     color: white;
     align-items: center;
     border-top: ;
+ }
+ 
+ .contact_us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+ }
+ 
+ .input_name {
+    display: flex;
+    margin-bottom: 20px;
+ }
+ footer {
+    background-color: #071629;
+    display: flex;
+ }
+
+ .footer2 {
+    display: flex;
+    flex-direction: r
+    align-items: center;
+    justify-content: space-between;
+ }
+
+.footer2_logo {
+    width: 10px;
 }
+
+ .socials {
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+    
+ }
+
+ .bottom {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-self: last baseline;
+    margin-top: 50px;
+ }

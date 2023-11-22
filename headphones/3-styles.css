@@ -1,0 +1,151 @@
+.homepage {
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   background-image: url(images/headphones_hero_1.jpg);
+   width: 100%;
+   color: #ffffff;
+   height: 800px;
+   justify-content: space-between;
+   align-content: space-between;
+  }
+
+  .header {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   width:1000px;
+   height: 32px;
+   margin-left: 200px;
+   color: #ffffff;
+   margin-top: 28px;
+   flex-wrap: wrap;
+  }
+
+  
+  a:hover {
+   color: red;
+  }
+
+  .nav-link {
+   color: white;
+  }
+
+  
+  .top {
+   display: flex;
+   flex-direction: column;
+   align-content:  center;
+   align-items: center;
+   
+   }
+
+h1{
+   font-size: xx-large;
+   display: flex;
+   text-align: center;
+}
+
+.under {
+   text-align: center;
+ }
+
+   .Action {
+   background-color: #FF6565;
+   width: 162px;
+   height: 44px;
+   border-radius: 50px;
+   color: white;
+   }
+
+  .Part2 {
+   display: flex;
+   flex-direction: column;
+  }
+
+  .what_we_do {
+   display: flex;
+   flex-direction: column; 
+   flex-wrap: wrap;
+   text-align: center;
+  }
+
+  .sound_frequency {
+   text-align: center;
+  }
+
+  .sound_frequency2 {
+   text-align: center;
+   display: flex;
+   
+  }
+
+  .Part2_2 {
+   display: flex;
+   padding: 50px;
+  }
+
+  .Part2_2_1 {
+   border-left 100px;
+   
+  }
+
+
+  .polygon {
+   display: flex;
+   width: 986px;
+   height: 190px;
+   margin-top: 56px;
+   margin-left: 207px;
+   justify-content: space-between;
+
+}
+
+.polygon_1{
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   background-image: url(images/pentagone.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   width: 190px;
+   color: #ffffff;
+   height: 190px;
+   justify-items: center;
+   align-items: center;
+   border: none;
+}
+
+.polygon_1_2 {
+   width: 50px;
+   height: 50px;
+   margin-top: 30px;
+   font-size: 200%;
+}
+
+.part22 {
+   background-image:url(images/headphones_hero_2.jpg);
+   height: 100%;
+   width: auto;
+}
+
+
+.part221_1 {
+   display: flex;
+   flex-direction: column;
+   color: white;
+   align-items: center;
+   border-top: ;
+}
+
+.contact_us {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-top: 50px;
+}
+
+.input_name {
+   display: flex;
+}
